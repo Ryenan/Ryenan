@@ -29,13 +29,13 @@
 <div align="center">
   
   [![Rich](https://img.shields.io/static/v1?message=Portfolio&logo=minetest&label=&color=631fff&logoColor=white&labelColor=&style=for-the-badge)](https://ryenan.github.io/site/)
-  <img width="12" />
+  <img width="24" />
   [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:ryenanaragaorodrigues@gmail.com?subject=Gostaria+de+entrar+em+contato!&body=Ol%C3%A1!)
-  <img width="12" />
+  <img width="24" />
   [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/ryenan/)
-  <img width="12" />
+  <img width="24" />
   [![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/ryenaum/)
-  <img width="12" />
+  <img width="24" />
   [![WhatsApp](https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge)](https://api.whatsapp.com/send/?phone=5588992642364&text&type=phone_number&app_absent=0)
 
 </div>
