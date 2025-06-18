@@ -48,9 +48,9 @@
 
 <div align="center">
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryenan&show_icons=true&theme=transparent)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryenan&exclude_repo=site&show_icons=true&theme=transparent)
   <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryenan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryenan&exclude_repo=site&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=transparent&hide_border=false" height="150" alt="languages graph"  />
   
 </div>
 
