@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=631fff&height=60&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&color=631fff&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Ryênan+Aragão+Rodrigues;Fullstack+Developer;Software+Enginner+Student+👨‍💻; )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&color=631fff&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Ryênan+Aragão+Rodrigues;Fullstack+Developer;Software+Enginner+👨‍💻; )](https://git.io/typing-svg)
 
 <div align="center">🔭 Full-stack Developer · 📚 .Net & Java · 📞 (88) 99264-2364</div>
 
