@@ -2,14 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&color=631fff&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Ryênan+Aragão+Rodrigues;Fullstack+Developer;Software+Enginner+Student+👨‍💻; )](https://git.io/typing-svg)
 
-<div align="center">🔭 Full-stack Developer · 📚 .Net & Flutter · 📞 (88) 99264-2364</div>
+<div align="center">🔭 Full-stack Developer · 📚 .Net & Java · 📞 (88) 99264-2364</div>
 
 ###
 
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
     <img width="12" />
