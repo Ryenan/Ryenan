@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Poppins&weight=500&color=631fff&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=1000&lines=Ryênan+Aragão+Rodrigues;Fullstack+Developer🧠;Software+Enginner+👨‍💻; )](https://git.io/typing-svg)
 
-<div align="center">🔭 Full-stack Developer · 📚 .Net & Java · 📞 (88) 99264-2364</div>
+<div align="center">🔭 Full-stack Developer · 📚 .Net & Java · 📞 (+55) 88 9955-5898 </div>
 
 ###
 
